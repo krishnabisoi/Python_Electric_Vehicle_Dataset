@@ -54,6 +54,9 @@ The dataset includes both BEVs and PHEVs, making it suitable for comparative ana
        * Other manufacturers (BMW, Nissan, Ford, Toyota, Volkswagen) show clustered mid-to-low range values, reflecting either hybrid-heavy portfolios or earlier EV generations.
        * The wide vertical spread for Tesla highlights model diversity, while tighter clusters for other brands indicate limited range variation.
        * Color intensity reinforces that higher electric range vehicles are concentrated among fewer manufacturers, primarily Tesla.
+    
+![alt text](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/tree/main/Visuals/01 Top 10 EV Manufacturers by Registration Frequency.png)
+
 
   2. Top 10 EV Manufacturers by Registration Frequency (Bar Chart)
        * This bar chart shows market dominance by volume, not performance.
