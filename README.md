@@ -55,8 +55,9 @@ The dataset includes both BEVs and PHEVs, making it suitable for comparative ana
        * The wide vertical spread for Tesla highlights model diversity, while tighter clusters for other brands indicate limited range variation.
        * Color intensity reinforces that higher electric range vehicles are concentrated among fewer manufacturers, primarily Tesla.
     
-![alt text](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/tree/main/Visuals/01 Top 10 EV Manufacturers by Registration Frequency.png)
+![alt text](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/01_Top_10_EV_Manufacturers_by_Registration_Frequency.png)
 
+***
 
   2. Top 10 EV Manufacturers by Registration Frequency (Bar Chart)
        * This bar chart shows market dominance by volume, not performance.
@@ -65,11 +66,19 @@ The dataset includes both BEVs and PHEVs, making it suitable for comparative ana
        * Emerging brands (Rivian, Hyundai, Volkswagen) show lower adoption counts, suggesting either newer market entry or niche positioning.
        * The chart confirms that brand presence and consumer trust heavily influence EV adoption, not just technical range.
 
+![alt text](http://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/02_Top_10_EV_Manufacturers_by_Registration_Frequency.png)
+
+***
+
   3. Distribution of Electric Vehicle Ranges (Short / Medium / Long)
        * EVs are categorized into Short, Medium, and Long electric range segments.
        * The majority of vehicles fall into the Short and Medium range categories, highlighting current battery and cost constraints in mass-market EVs.
        * Long-range EVs represent a very small fraction, indicating that extended range remains a premium feature, not an industry standard.
        * This distribution reinforces the trade-off between affordability and range in the EV market.
+
+![alt text](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/03_Distribution_of_Electric_Vehicle_Ranges.png)
+
+***
 
   4. EV Adoption Trends Over Time (Model Year Analysis)
        * EV adoption remained negligible before 2010, reflecting early technological and infrastructure barriers.
@@ -78,11 +87,19 @@ The dataset includes both BEVs and PHEVs, making it suitable for comparative ana
        * The sharp drop in the latest year is likely due to partial-year data, not an actual decline.
        * Overall, the trend confirms that EV adoption follows a non-linear, accelerated growth curve.
 
+![alt text](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/04_EV_Adoption_Trends_Over_Time.png)
+
+***
+
   5. Distribution of EV Types (BEV vs. PHEV)
        * Battery Electric Vehicles (BEVs) significantly outnumber Plug-in Hybrid Electric Vehicles (PHEVs).
        * This indicates a clear market shift away from transitional hybrid solutions toward fully electric vehicles.
        * The dominance of BEVs suggests improved charging infrastructure and growing consumer confidence in all-electric mobility.
        * PHEVs remain relevant but appear to serve a narrower, transitional user base.
+
+![alt text](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/05_Distribution_of_EV_Types%20.png)
+
+***
 
   6. Location-wise EV Adoption (Pie Chart & Bar Chart)
        * EV adoption is heavily concentrated in urban and suburban regions.
@@ -90,12 +107,19 @@ The dataset includes both BEVs and PHEVs, making it suitable for comparative ana
        * Other regions show progressively lower adoption, highlighting a clear urban–rural adoption gap.
        * This visualization emphasizes that geography and infrastructure availability are major drivers of EV adoption.
 
+![alt text](https://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/06_Location_wise_EV_Adoption.png)
+
+***
+
   7. Electric Range Comparison: BEV vs. PHEV (Box Plot)
        * BEVs exhibit a much higher median electric range compared to PHEVs.
        * PHEVs show tight clustering at lower ranges, confirming their reliance on internal combustion engines for extended travel.
        * BEVs display wider variance and multiple high-range outliers, reflecting rapid technological improvements and diverse model offerings.
        * This comparison clearly validates why BEVs dominate long-range EV segments, while PHEVs serve short-distance or transition use cases.
 
+![alt text](http://github.com/krishnabisoi/Python_Electric_Vehicle_Dataset/blob/main/Visuals/07_Electric_Range_Comparison_BEV_vs_PHEV.png)
+
+***
 
 ### 🚀 Future Enhancements
 
