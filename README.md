@@ -26,13 +26,13 @@ This project answers the following:
 The dataset includes both BEVs and PHEVs, making it suitable for comparative analysis and supervised learning.
 
 ### 🧠 Methodology
-  1️⃣ Data Cleaning & Preprocessing
+  * 1️⃣ Data Cleaning & Preprocessing:
     * Loaded and processed using Pandas.
     * Handled missing values to maintain data integrity.
     * Encoded categorical variables (Make, EV Type) using label encoding and one-hot encoding
     * Selected relevant features for analysis and modeling
 
-  2️⃣ Exploratory Data Analysis (EDA)
+  * 2️⃣ Exploratory Data Analysis (EDA)
   Key analyses include:
     * Distribution of BEVs vs. PHEVs.
     * Electric range distribution (short, medium, long).
@@ -41,7 +41,7 @@ The dataset includes both BEVs and PHEVs, making it suitable for comparative ana
     * Manufacturer comparison by electric range.
     * EDA revealed that BEVs dominate the dataset, with significantly higher adoption than PHEVs across Washington State 
 
-  3️⃣ Predictive Modeling
+  * 3️⃣ Predictive Modeling
     * Model Used: Random Forest Classifier.
     * Target Variable: Electric Vehicle Type (BEV vs. PHEV).
     * Features: Make, Model Year, Electric Range.
