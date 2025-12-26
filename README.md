@@ -18,10 +18,9 @@ This project answers the following:
   4. Can we predict EV type using vehicle-level features?
 
 ### 📊 Dataset
-  * Source: [U.S. Government Open Data] (https://catalog.data.gov/dataset/electric-vehicle-population-data).
+  * Source: [U.S. Government Open Data](https://catalog.data.gov/dataset/electric-vehicle-population-data).
   * Dataset: Electric Vehicle Population Data (Washington State).
   * Scope: Vehicle registrations, electric range, MSRP, model year, make, and geographic attributes.
-  * Link: https://catalog.data.gov/dataset/electric-vehicle-population-data.
 
 The dataset includes both BEVs and PHEVs, making it suitable for comparative analysis and supervised learning.
 
